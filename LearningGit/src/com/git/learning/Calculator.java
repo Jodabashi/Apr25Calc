@@ -2,9 +2,8 @@ package com.git.learning;
 
 public class Calculator {
 
-	private void Main() {
-		// TODO Auto-generated method stub
-
+	public int add (int x, int y) {
+		return x+y;
 	}
 	
 	
